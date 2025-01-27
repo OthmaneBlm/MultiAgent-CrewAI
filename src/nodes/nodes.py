@@ -44,7 +44,7 @@ class Nodes:
         - If 'news' is provided, it triggers stock news analysis.
         - If 'stock_list' is provided, it triggers comparison of stocks.
         """
-        print("The state in node stock:#################", state)
+        
         messages = state["messages"]
         
         if state["stock"]:

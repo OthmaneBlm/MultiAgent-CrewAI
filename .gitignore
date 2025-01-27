@@ -1,0 +1,6 @@
+/src/.env
+/src/.chainlit
+/src/__pychache__/
+/agent_workspace/
+/.files/
+/.chainlit/

@@ -3,7 +3,7 @@ Subfolder: messages
 Role: This subfolder defines the data structures for communication between agents and workflows. 
 It standardizes how messages and queries are formatted and passed across the system.
 
-File: messages.py
+File: state.py
 Purpose: Defines the `AgentState` message structure, which encapsulates the input and intermediate state of the agents.
 """
 
